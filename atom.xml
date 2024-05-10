@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://czy-blog.pages.dev</id>
+    <title>czy的博客</title>
+    <updated>2024-05-10T06:01:39.332Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://czy-blog.pages.dev"/>
+    <link rel="self" href="https://czy-blog.pages.dev/atom.xml"/>
+    <subtitle>博客记录</subtitle>
+    <logo>https://czy-blog.pages.dev/images/avatar.png</logo>
+    <icon>https://czy-blog.pages.dev/favicon.ico</icon>
+    <rights>All rights reserved 2024, czy的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[图片压缩]]></title>
+        <id>https://czy-blog.pages.dev/post/tu-pian-ya-suo/</id>
+        <link href="https://czy-blog.pages.dev/post/tu-pian-ya-suo/">
+        </link>
+        <updated>2024-03-21T00:16:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[串口助手的食用教程]]></title>
+        <id>https://czy-blog.pages.dev/post/串口助手的食用教程/</id>
+        <link href="https://czy-blog.pages.dev/post/串口助手的食用教程/">
+        </link>
+        <updated>2023-08-01T08:50:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的听书教程]]></title>
+        <id>https://czy-blog.pages.dev/post/我的听书/</id>
+        <link href="https://czy-blog.pages.dev/post/我的听书/">
+        </link>
+        <updated>2023-07-07T02:36:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MusicFree教程]]></title>
+        <id>https://czy-blog.pages.dev/post/musicfree-jiao-cheng/</id>
+        <link href="https://czy-blog.pages.dev/post/musicfree-jiao-cheng/">
+        </link>
+        <updated>2023-07-07T02:06:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百宝袋]]></title>
+        <id>https://czy-blog.pages.dev/post/百宝袋/</id>
+        <link href="https://czy-blog.pages.dev/post/百宝袋/">
+        </link>
+        <updated>2023-07-06T02:14:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVBox教程]]></title>
+        <id>https://czy-blog.pages.dev/post/tvbox-tutorial/</id>
+        <link href="https://czy-blog.pages.dev/post/tvbox-tutorial/">
+        </link>
+        <updated>2023-06-30T08:25:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android突然断电导致文件没保存]]></title>
+        <id>https://czy-blog.pages.dev/post/android-tu-ran-duan-dian-dao-zhi-wen-jian-mei-bao-cun/</id>
+        <link href="https://czy-blog.pages.dev/post/android-tu-ran-duan-dian-dao-zhi-wen-jian-mei-bao-cun/">
+        </link>
+        <updated>2023-04-28T00:44:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android防止快速多次点击]]></title>
+        <id>https://czy-blog.pages.dev/post/android-fang-zhi-kuai-su-duo-ci-dian-ji/</id>
+        <link href="https://czy-blog.pages.dev/post/android-fang-zhi-kuai-su-duo-ci-dian-ji/">
+        </link>
+        <updated>2023-04-28T00:37:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android获取HASH值]]></title>
+        <id>https://czy-blog.pages.dev/post/android-huo-qu-hash-zhi/</id>
+        <link href="https://czy-blog.pages.dev/post/android-huo-qu-hash-zhi/">
+        </link>
+        <updated>2023-04-28T00:28:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影视分享]]></title>
+        <id>https://czy-blog.pages.dev/post/33/</id>
+        <link href="https://czy-blog.pages.dev/post/33/">
+        </link>
+        <updated>2023-04-12T08:08:01.000Z</updated>
+    </entry>
+</feed>
